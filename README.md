@@ -18,12 +18,6 @@ Backend architecture, distributed systems, automation and AI engineering.
 
 LLMs • AI Agents • RAG • MCP • OpenAI • Claude • Automation
 
-### GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juninholfds&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juninholfds&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 _Engineering reliable systems. Automating complexity. Building with AI._
